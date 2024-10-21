@@ -1,9 +1,9 @@
 const bedrock = require('bedrock-protocol');
 
 const botOptions = {
-  host: 'in3.gbnodes.host', // Server IP
-    port: 25578,              // Server Port
-      username: 'Sir Lord Otaku' // Bot's Username
+  host: 'ipaddress', // Server IP
+    port: 00000,              // Server Port
+      username: 'Sir' // Bot's Username
       };
 
       const reconnectDelay = 5000; // 5 seconds
